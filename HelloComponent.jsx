@@ -21,8 +21,6 @@ const HelloComponent2 = () => {
       <div>Hera are some changes</div>
       <button onClick={fetchData}>Fetch Message</button>
       <button>very dangerous button! BEWARE!</button>
-      <button>extremely dangerous button</button>
-
       <p>Message from the server: {message}</p>
     </div>
   );
