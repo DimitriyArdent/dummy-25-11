@@ -17,7 +17,7 @@ const HelloComponent2 = () => {
     <div>
   
 
-      <h1>Hello Component   </h1>
+      <h1>𓆩♡𓆪 Hello Component   </h1>
       <div>Hera are some changes</div>
       <button onClick={fetchData}>Fetch Message</button>
       <button>button to be merged</button>
