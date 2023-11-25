@@ -20,7 +20,6 @@ const HelloComponent2 = () => {
       <h1>Hello Component   </h1>
       <div>Hera are some changes</div>
       <button onClick={fetchData}>Fetch Message</button>
-      <button>very dangerous button! BEWARE!</button>
       <p>Message from the server: {message}</p>
     </div>
   );
