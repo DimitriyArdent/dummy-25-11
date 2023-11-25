@@ -17,6 +17,7 @@ const HelloComponent2 = () => {
     <div>
   
 
+ 
       <h1>Hello Component ( •̀ᴗ•́ )و ̑̑  </h1>
       <div>( •̀ᴗ•́ )و</div>
       <div>( •̀ᴗ•́ )و</div>
@@ -24,6 +25,10 @@ const HelloComponent2 = () => {
       <div>( •̀ᴗ•́ )و</div>
       <div>( •̀ᴗ•́ )و</div>
       <div>Hera are some changes</div>
+ 
+        <h1>Hello Component ( •̀ᴗ•́ )و ̑̑  </h1>
+       <div>Hera are some changes</div>
+ 
       <button onClick={fetchData}>Fetch Message</button>
       <button>button to be merged</button>
       <p>Message from the server: {message}</p>
