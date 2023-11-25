@@ -20,6 +20,7 @@ const HelloComponent2 = () => {
       <h1>Hello Component   </h1>
       <div>Hera are some changes</div>
       <button onClick={fetchData}>Fetch Message</button>
+      <buton>button to be merged</buton>
       <p>Message from the server: {message}</p>
     </div>
   );
